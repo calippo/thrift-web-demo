@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" -XPOST http://localhost:8585/hello --data '[1,"hello_func",1,0,{}]' --verbose
